@@ -27,7 +27,9 @@ The repo contains three colab notebooks, which contain the code for the project.
  
 2. Lane Detection - the original UNET model for lane detection
 
-3. Lane Detection with Deeplab v3 - The Deeplab v3 model which did not improve the perforance of the original model
+3. Object Detection with Deeplab v3 - The Deeplab v3 model for object detection which did not improve on the performance of the original model
+
+4. Lane Detection with Deeplab v3 - The Deeplab v3 model for lane detection which did not improve on the performance of the original model
 
 Some of the code is specific to our various folders and files, and should of course be changed if used on a local machine. 
 
