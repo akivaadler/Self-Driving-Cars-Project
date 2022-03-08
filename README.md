@@ -35,6 +35,11 @@ Some of the code is specific to our various folders and files, and should of cou
 
 If you decide to run this code, we recommend that you purchase increased computing power, from Colab for example, because the code is slow without it. 
 
+The deployed models can be found and tested here:
+
+- Object Detection model: https://huggingface.co/spaces/davidmd/object_detection_UNet_Model
+- Lane Detection model: https://huggingface.co/spaces/davidmd/lane_detection_UNet_Model
+
 **Conclusions:**
 
 We had a number of conclusions at the end of this project:
